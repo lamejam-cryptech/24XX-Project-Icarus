@@ -5,8 +5,8 @@ import jsonengine.main as eng
 from character import Character
 
 class IBS_Char:
-    def __init__(self, race=None, gender=None):
-        self.base_char = Character(race, gender)
+    def __init__(self, gender=None):
+        self.base_char = Character(gender)
 
         self.character = {
             'isb_character': {

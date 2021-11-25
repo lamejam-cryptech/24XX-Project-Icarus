@@ -5,7 +5,7 @@ import jsonengine.main as eng
 from character import Character
 
 class _24s:
-    def __init__(self, race=None, gender=None):
+    def __init__(self, gender=None):
         self.safe = {
             'hyp_safe': {
                 '24xx_hyper_lofi_future': '--------------------'
