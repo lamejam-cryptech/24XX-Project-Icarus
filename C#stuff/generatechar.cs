@@ -1,4 +1,3 @@
-
 public class GenerateChar
 {
     
@@ -17,6 +16,7 @@ public class GenerateChar
         this.id = {
             name: "",
             gender: "",
+            personality: "",
         };
 
         var rand = new Random();
@@ -26,6 +26,8 @@ public class GenerateChar
         } else {
             this.id["name"] = this.nors_names_f[rand]+" "+this.nors_lastnames_f[rand];
         }
+
+        this.id["name"] = this.personality_pos[rand] + this.personality_neg[rand]
     }
 
     public getId() {
