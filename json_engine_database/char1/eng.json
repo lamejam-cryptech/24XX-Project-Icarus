@@ -1,0 +1,51 @@
+{
+    "gender": "",
+    "name": "",
+    "personality": "energetic",
+    "atr": "---------",
+    "hth": 0,
+    "str": 4,
+    "dex": 3,
+    "agl": 2,
+    "int": 3,
+    "cha": 4,
+    "isb_character": {
+        "2400_inner_system_blues": "--------------------",
+        "isb_id": {
+            "origin": "android",
+            "role": "rigger",
+            "code_name": "Orc",
+            "money": 0,
+            "rep": 0
+        },
+        "isb_skills": {
+            "drones": 1,
+            "jury_rigging": 1
+        },
+        "isb_clothing": {
+            "head": [],
+            "clothing": [
+                "translucent duster"
+            ],
+            "adornment": [
+                "traditional tattoo",
+                "glitching tattoo",
+                "3D glasses"
+            ],
+            "wearable_gear": []
+        },
+        "isb_augs": {
+            "aug_head": [],
+            "aug_arms": [],
+            "aug_body": [
+                "case_armor"
+            ],
+            "aug_legs": []
+        },
+        "isb_items": {
+            "carry": [],
+            "side_arm": [],
+            "pack": {}
+        }
+    }
+}

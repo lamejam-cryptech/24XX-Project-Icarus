@@ -1,0 +1,57 @@
+{
+    "gender": "m",
+    "name": "",
+    "personality": "smug",
+    "atr": "---------",
+    "hth": 4,
+    "str": 0,
+    "dex": 2,
+    "agl": 1,
+    "int": 4,
+    "cha": 2,
+    "hyp_character": {
+        "24xx_hyper_lofi_future": "--------------------",
+        "hyp_id": {
+            "race": "human",
+            "origin": "middle_class",
+            "role": "operator",
+            "former_profession": "administrator",
+            "code_name": "Watts",
+            "money": 0,
+            "rep": 0,
+            "motivation": "protection"
+        },
+        "hyp_skills": {
+            "explosives": 1,
+            "persuasion": 1,
+            "drones": 1,
+            "jury_rigging": 1,
+            "hacking": 1,
+            "electronics": 1
+        },
+        "hyp_clothing": {
+            "head": [],
+            "clothing": [
+                "electric blue track suit"
+            ],
+            "adornment": [
+                "chrome teeth",
+                "neon strips"
+            ],
+            "wearable_gear": []
+        },
+        "hyp_augs": {
+            "aug_head": [
+                "drone_vision_control_implant"
+            ],
+            "aug_arms": [],
+            "aug_body": [],
+            "aug_legs": []
+        },
+        "hyp_items": {
+            "carry": [],
+            "side_arm": "homemade_explosives",
+            "pack": {}
+        }
+    }
+}

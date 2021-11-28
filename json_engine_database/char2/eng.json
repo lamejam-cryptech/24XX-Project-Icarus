@@ -1,0 +1,53 @@
+{
+    "gender": "",
+    "name": "",
+    "personality": "prudish",
+    "atr": "---------",
+    "hth": 0,
+    "str": 2,
+    "dex": 4,
+    "agl": 3,
+    "int": 1,
+    "cha": 3,
+    "isb_character": {
+        "2400_inner_system_blues": "--------------------",
+        "isb_id": {
+            "origin": "human",
+            "role": "infiltrator",
+            "code_name": "Kit",
+            "money": 0,
+            "rep": 0
+        },
+        "isb_skills": {
+            "sleight_of_hand": 1,
+            "intimidation": 1,
+            "climbing": 1,
+            "stealth": 1
+        },
+        "isb_clothing": {
+            "head": [
+                "nvg"
+            ],
+            "clothing": [
+                "budget vest & pants"
+            ],
+            "adornment": [
+                "neon tattoo"
+            ],
+            "wearable_gear": [
+                "climbing_gear"
+            ]
+        },
+        "isb_augs": {
+            "aug_head": [],
+            "aug_arms": [],
+            "aug_body": [],
+            "aug_legs": []
+        },
+        "isb_items": {
+            "carry": [],
+            "side_arm": [],
+            "pack": {}
+        }
+    }
+}

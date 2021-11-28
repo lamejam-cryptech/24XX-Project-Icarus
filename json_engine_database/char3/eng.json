@@ -1,0 +1,51 @@
+{
+    "gender": "",
+    "name": "",
+    "personality": "cheerful",
+    "atr": "---------",
+    "hth": 0,
+    "str": 4,
+    "dex": 2,
+    "agl": 3,
+    "int": 1,
+    "cha": 0,
+    "isb_character": {
+        "2400_inner_system_blues": "--------------------",
+        "isb_id": {
+            "origin": "human",
+            "role": "stitcher",
+            "code_name": "Echo",
+            "money": 0,
+            "rep": 0
+        },
+        "isb_skills": {
+            "sleight_of_hand": 1,
+            "shooting": 1,
+            "medicine": 1,
+            "electronics": 1
+        },
+        "isb_clothing": {
+            "head": [
+                "nogs"
+            ],
+            "clothing": [
+                "brand name military fatigues"
+            ],
+            "adornment": [],
+            "wearable_gear": []
+        },
+        "isb_augs": {
+            "aug_head": [],
+            "aug_arms": [],
+            "aug_body": [],
+            "aug_legs": []
+        },
+        "isb_items": {
+            "carry": [
+                "cyber_surgery_kit"
+            ],
+            "side_arm": [],
+            "pack": {}
+        }
+    }
+}

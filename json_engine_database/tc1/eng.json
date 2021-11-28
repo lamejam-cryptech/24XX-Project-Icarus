@@ -1,0 +1,57 @@
+{
+    "gender": "",
+    "name": "",
+    "personality": "laid_back",
+    "atr": "---------",
+    "hth": 2,
+    "str": 4,
+    "dex": 0,
+    "agl": 1,
+    "int": 4,
+    "cha": 3,
+    "tcc_character": {
+        "19xx_20th_century_cyberpunk": "--------------------",
+        "tcc_id": {
+            "origin": "lower_class",
+            "role": "runner",
+            "former_profession": "salaryman",
+            "code_name": "Caver",
+            "money": 0,
+            "rep": 0
+        },
+        "tcc_skills": {
+            "athletics": 1,
+            "perception": 1,
+            "paperwork": 1
+        },
+        "tcc_clothing": {
+            "head": [
+                "glasses"
+            ],
+            "clothing": [
+                "royal purple high-collar suit"
+            ],
+            "adornment": [
+                "glitching tattoo",
+                "skull tattoo",
+                "snake tattoo"
+            ],
+            "wearable_gear": []
+        },
+        "tcc_augs": {
+            "aug_head": [],
+            "aug_arms": [],
+            "aug_body": [],
+            "aug_legs": []
+        },
+        "tcc_items": {
+            "carry": [
+                "hoverbike"
+            ],
+            "side_arm": [
+                "launchpad"
+            ],
+            "pack": {}
+        }
+    }
+}
