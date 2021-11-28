@@ -4,6 +4,8 @@ hint
 
 py -m pip install jsonengine
 
+run py _24c.py to generate cyberpunkish characters as a json file in the 24c folder
+
 run py _24p.py to generate cyberpunkish places as a json file in the 24p folder
 
 run py _24s.py to generate safe places as a json file in the 24s folder

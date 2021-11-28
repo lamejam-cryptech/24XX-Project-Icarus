@@ -1,40 +1,36 @@
 {
     "gender": "",
-    "name": "",
-    "personality": "laid_back",
+    "name": "Lami Thoralddottier",
+    "personality": "pragmatic",
     "atr": "---------",
-    "hth": 2,
-    "str": 4,
-    "dex": 0,
-    "agl": 1,
-    "int": 4,
-    "cha": 3,
+    "hth": 0,
+    "str": 3,
+    "dex": 2,
+    "agl": 3,
+    "int": 0,
+    "cha": 4,
     "tcc_character": {
         "19xx_20th_century_cyberpunk": "--------------------",
         "tcc_id": {
-            "origin": "lower_class",
+            "origin": "upper_class",
             "role": "runner",
-            "former_profession": "salaryman",
-            "code_name": "Caver",
+            "former_profession": "gambler",
+            "code_name": "Kit",
             "money": 0,
             "rep": 0
         },
         "tcc_skills": {
             "athletics": 1,
             "perception": 1,
-            "paperwork": 1
+            "gambling": 1
         },
         "tcc_clothing": {
-            "head": [
-                "glasses"
-            ],
+            "head": [],
             "clothing": [
-                "royal purple high-collar suit"
+                "hot pink suit & tie"
             ],
             "adornment": [
-                "glitching tattoo",
-                "skull tattoo",
-                "snake tattoo"
+                "cat eye pupils"
             ],
             "wearable_gear": []
         },

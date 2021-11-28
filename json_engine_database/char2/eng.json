@@ -1,47 +1,45 @@
 {
     "gender": "",
-    "name": "",
-    "personality": "prudish",
+    "name": "Inge Adalvalddottier",
+    "personality": "energetic",
     "atr": "---------",
-    "hth": 0,
-    "str": 2,
-    "dex": 4,
-    "agl": 3,
-    "int": 1,
+    "hth": 1,
+    "str": 0,
+    "dex": 3,
+    "agl": 2,
+    "int": 3,
     "cha": 3,
     "isb_character": {
         "2400_inner_system_blues": "--------------------",
         "isb_id": {
-            "origin": "human",
-            "role": "infiltrator",
-            "code_name": "Kit",
+            "origin": "android",
+            "role": "psycher",
+            "code_name": "Piece",
             "money": 0,
             "rep": 0
         },
         "isb_skills": {
-            "sleight_of_hand": 1,
-            "intimidation": 1,
-            "climbing": 1,
-            "stealth": 1
+            "telekinesis": 2
         },
         "isb_clothing": {
             "head": [
-                "nvg"
+                "glasses"
             ],
             "clothing": [
-                "budget vest & pants"
+                "gilded duster"
             ],
             "adornment": [
-                "neon tattoo"
+                "cat eye pupils",
+                "chrome teeth"
             ],
-            "wearable_gear": [
-                "climbing_gear"
-            ]
+            "wearable_gear": []
         },
         "isb_augs": {
             "aug_head": [],
             "aug_arms": [],
-            "aug_body": [],
+            "aug_body": [
+                "synth_skin"
+            ],
             "aug_legs": []
         },
         "isb_items": {

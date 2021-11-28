@@ -445,4 +445,8 @@ class _24c:
         self.character['hyp_character']['hyp_clothing'] = hyp_clothing
         self.character['hyp_character']['hyp_augs'] = hyp_augs
         self.character['hyp_character']['hyp_items'] = hyp_items
-        
+
+c = _24c()
+c.generate_character()
+c.to_db('24c')
+eng.displayfull('24c')

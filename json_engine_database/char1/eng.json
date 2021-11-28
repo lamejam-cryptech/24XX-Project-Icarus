@@ -1,20 +1,20 @@
 {
     "gender": "",
-    "name": "",
-    "personality": "energetic",
+    "name": "Helgird Steiroddottier",
+    "personality": "determined",
     "atr": "---------",
-    "hth": 0,
-    "str": 4,
-    "dex": 3,
-    "agl": 2,
-    "int": 3,
-    "cha": 4,
+    "hth": 4,
+    "str": 2,
+    "dex": 0,
+    "agl": 0,
+    "int": 4,
+    "cha": 3,
     "isb_character": {
         "2400_inner_system_blues": "--------------------",
         "isb_id": {
             "origin": "android",
             "role": "rigger",
-            "code_name": "Orc",
+            "code_name": "Drift",
             "money": 0,
             "rep": 0
         },
@@ -25,20 +25,16 @@
         "isb_clothing": {
             "head": [],
             "clothing": [
-                "translucent duster"
+                "glow in the dark tape & sweats"
             ],
-            "adornment": [
-                "traditional tattoo",
-                "glitching tattoo",
-                "3D glasses"
-            ],
+            "adornment": [],
             "wearable_gear": []
         },
         "isb_augs": {
             "aug_head": [],
             "aug_arms": [],
             "aug_body": [
-                "case_armor"
+                "synth_skin"
             ],
             "aug_legs": []
         },

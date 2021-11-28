@@ -1,41 +1,38 @@
 {
-    "gender": "m",
-    "name": "Orla Rigeldottier",
-    "personality": "selfish",
+    "gender": "f",
+    "name": "Ase Horgeirdottier",
+    "personality": "determined",
     "atr": "---------",
-    "hth": 2,
+    "hth": 4,
     "str": 4,
-    "dex": 4,
+    "dex": 0,
     "agl": 1,
-    "int": 4,
-    "cha": 0,
+    "int": 2,
+    "cha": 1,
     "hyp_character": {
         "24xx_hyper_lofi_future": "--------------------",
         "hyp_id": {
             "race": "android",
-            "origin": "lower_class",
-            "role": "grifter",
+            "origin": "middle_class",
+            "role": "decker",
             "former_profession": "street_sweeper",
-            "code_name": "Nic",
+            "code_name": "Inky",
             "money": 0,
             "rep": 0,
-            "motivation": "revolution"
+            "motivation": "professionalism"
         },
         "hyp_skills": {
-            "reading_people": 1,
-            "deception": 1,
+            "hacking": 3,
+            "electronics": 2,
             "labor": 1
         },
         "hyp_clothing": {
             "head": [],
             "clothing": [
-                "glow in the dark suit & tie"
+                "hot pink bomber jacket"
             ],
             "adornment": [
-                "neon tattoo",
-                "flame tattoo",
-                "neon tattoo",
-                "corp tattoos"
+                "windbreaker"
             ],
             "wearable_gear": []
         },
@@ -48,11 +45,11 @@
             "aug_legs": []
         },
         "hyp_items": {
-            "carry": [],
-            "side_arm": "pistol",
-            "pack": {
-                "extensive_disguise": 1
-            }
+            "carry": [
+                "cyber_deck"
+            ],
+            "side_arm": "grapple",
+            "pack": {}
         }
     }
 }

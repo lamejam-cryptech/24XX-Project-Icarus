@@ -1,27 +1,27 @@
 {
     "gender": "",
-    "name": "",
-    "personality": "cheerful",
+    "name": "Threki Sibbidottier",
+    "personality": "sad",
     "atr": "---------",
-    "hth": 0,
-    "str": 4,
-    "dex": 2,
-    "agl": 3,
+    "hth": 2,
+    "str": 3,
+    "dex": 1,
+    "agl": 2,
     "int": 1,
-    "cha": 0,
+    "cha": 4,
     "isb_character": {
         "2400_inner_system_blues": "--------------------",
         "isb_id": {
             "origin": "human",
-            "role": "stitcher",
-            "code_name": "Echo",
+            "role": "hacker",
+            "code_name": "Watts",
             "money": 0,
             "rep": 0
         },
         "isb_skills": {
-            "sleight_of_hand": 1,
-            "shooting": 1,
-            "medicine": 1,
+            "labor": 1,
+            "connections": 1,
+            "hacking": 1,
             "electronics": 1
         },
         "isb_clothing": {
@@ -29,9 +29,11 @@
                 "nogs"
             ],
             "clothing": [
-                "brand name military fatigues"
+                "reflective flannel & jeans"
             ],
-            "adornment": [],
+            "adornment": [
+                "chain tattoos"
+            ],
             "wearable_gear": []
         },
         "isb_augs": {
@@ -42,7 +44,7 @@
         },
         "isb_items": {
             "carry": [
-                "cyber_surgery_kit"
+                "bullet_proof_console"
             ],
             "side_arm": [],
             "pack": {}
