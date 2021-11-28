@@ -48,7 +48,7 @@ class Character:
     def generate_id(self, gender):
         if gender == None:
             self.id['gender'] = random.choice(['m','f'])
-        self.appearance['personality'] = random.choice(self.personality_pos + self.personality_neg)
+        self.id['personality'] = random.choice(self.personality_pos + self.personality_neg)
 
     def generate_attribute(self):
         # self.attributes['hth'] = random.choice([1,2,3,4,5,6,7,8,9,10])
