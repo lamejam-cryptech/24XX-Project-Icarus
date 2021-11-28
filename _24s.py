@@ -148,5 +148,5 @@ class _24s:
 
 s = _24s()
 s.generate_safe()
-s.to_db('test')
-eng.displayfull('test')
+s.to_db('24s')
+eng.displayfull('24s')

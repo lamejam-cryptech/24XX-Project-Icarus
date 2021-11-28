@@ -1,0 +1,20 @@
+{
+    "hyp_rules": {
+        "24xx_hyper_lofi_future": "--------------------",
+        "d2": 1,
+        "d4": 1,
+        "d6": 6,
+        "d8": 7,
+        "d10": 8,
+        "d12": 6,
+        "d20": 20,
+        "tactic": {
+            "tactic": "push",
+            "vof_n": 4,
+            "vof_s": "S",
+            "vof_d": "X",
+            "vof_f": "X",
+            "response": "shock"
+        }
+    }
+}

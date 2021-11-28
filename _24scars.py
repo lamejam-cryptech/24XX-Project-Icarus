@@ -61,8 +61,8 @@ class _24r:
 
 r = _24r()
 r.generate_scars()
-r.to_db('test')
-eng.displayfull('test')
+r.to_db('24scars')
+eng.displayfull('24scars')
 
 
         

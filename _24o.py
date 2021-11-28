@@ -90,8 +90,8 @@ class _24r:
 
 r = _24r()
 r.generate_planner()
-r.to_db('test')
-eng.displayfull('test')
+r.to_db('24o')
+eng.displayfull('24o')
 
 
         

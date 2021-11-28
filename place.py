@@ -45,6 +45,7 @@ class Place:
     def to_db(self, db = ''):
         eng.create({},db)
         eng.patch(self.location,db)
+        eng.patch(self.quest,db)
 
     def from_db(self, db = ''):
         self.id = eng.retrieve_k('location',db)
@@ -60,3 +61,8 @@ class Place:
         self.quest['place_size'] = random.choice(self.size)
         self.quest['place_desc'] = random.choice(self.place_desc)
         self.quest['place'] = random.choice(self.place)
+
+s = Place()
+s.generate_place()
+s.to_db('place')
+eng.displayfull('place')

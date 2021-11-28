@@ -158,5 +158,5 @@ class _24q:
 
 q = _24q()
 q.generate_place()
-q.to_db('test')
-eng.displayfull('test')
+q.to_db('24p')
+eng.displayfull('24p')

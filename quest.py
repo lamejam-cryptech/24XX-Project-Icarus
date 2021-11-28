@@ -103,3 +103,6 @@ class Quest:
         self.detail['target'] = random.choice(['thread','pc','npc'])
         self.detail['emotion'] = random.choice(['anger','sadness','fear','calm','happiness','courage'])
 
+s = Quest()
+s.to_db('quest')
+eng.displayfull('quest')
